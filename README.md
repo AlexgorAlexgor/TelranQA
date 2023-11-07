@@ -1,2 +1,2 @@
 # TelranQA
--Alexander Goranski"
+-Alexander Goranski
