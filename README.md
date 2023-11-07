@@ -1,2 +1,2 @@
 # TelranQA
--Alexander Goranski
+- git Alexander Goranski
